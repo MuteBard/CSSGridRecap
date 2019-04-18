@@ -1,25 +1,25 @@
-## Terminology For CSS Grid
-
+## Terminology
 
 ### Grid line
 
-![](https://cdn.discordapp.com/attachments/567006944611532818/568563687338803249/Screen_Shot_2019-04-18_at_6.27.33_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/568578535124631567/Screen_Shot_2019-04-18_at_7.27.02_PM.png)
 
-![](https://cdn.discordapp.com/attachments/567006944611532818/568563891467190282/Screen_Shot_2019-04-18_at_6.29.38_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/568578573439467520/Screen_Shot_2019-04-18_at_7.27.13_PM.png)
 
 ### Grid track
 
-![](https://cdn.discordapp.com/attachments/567006944611532818/568564164935548938/Screen_Shot_2019-04-18_at_6.30.47_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/568578881485799453/Screen_Shot_2019-04-18_at_7.27.21_PM.png)
 
-![](https://cdn.discordapp.com/attachments/567006944611532818/568568724118831131/Screen_Shot_2019-04-18_at_6.36.52_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/568578604188041216/Screen_Shot_2019-04-18_at_7.27.26_PM.png)
+
 
 ### Grid Cell
 
-![](https://cdn.discordapp.com/attachments/567006944611532818/568568975538126848/Screen_Shot_2019-04-18_at_6.49.28_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/568578657153712138/Screen_Shot_2019-04-18_at_7.27.31_PM.png)
 
 ### Grid Area
 
-![](https://cdn.discordapp.com/attachments/567006944611532818/568569295848865810/Screen_Shot_2019-04-18_at_6.50.44_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/568578643878608898/Screen_Shot_2019-04-18_at_7.27.38_PM.png)
 
-![](https://cdn.discordapp.com/attachments/567006944611532818/568572417031798795/Screen_Shot_2019-04-18_at_7.03.32_PM.png)
-
+### Other Terms
+![](https://cdn.discordapp.com/attachments/567006944611532818/568578681375686657/Screen_Shot_2019-04-18_at_7.27.44_PM.png)
