@@ -1,1 +1,20 @@
 /* Put your code here */
+.grid {
+    display : grid;
+
+    /* one row with 100px in size */
+    /* grid-template-rows : 100px; */
+
+    /* two rows with one 100px size and another in 200px*/
+    /* grid-template-rows : 100px 200px; */
+
+    /* two rows with one 100px size and another in 200px*/
+    /* three columns with one 200px size, another in 150px,and the rest remaining in size */
+    /* two by three results into 6 cell designs*/
+    /* grid-template-rows : 100px 200px;
+    grid-template-columns : 200px auto 150px; */
+
+    /* Same result as above, the / divides the rows and columns */
+     grid-template: 100px 200px / 200px auto 150px
+
+}
