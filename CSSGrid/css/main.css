@@ -1,20 +1,28 @@
 /* Put your code here */
 .grid {
     display : grid;
+    grid-template: 100px 200px / 200px auto 150px
 
-    /* one row with 100px in size */
-    /* grid-template-rows : 100px; */
+}
 
-    /* two rows with one 100px size and another in 200px*/
-    /* grid-template-rows : 100px 200px; */
+/* target item 2 and box it at our specified location */
+.grid div:nth-child(2){
+    /* grid indexing starts at 1 */
+    grid-row-start: 1;
+    grid-row-end : 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
 
-    /* two rows with one 100px size and another in 200px*/
-    /* three columns with one 200px size, another in 150px,and the rest remaining in size */
-    /* two by three results into 6 cell designs*/
-    /* grid-template-rows : 100px 200px;
-    grid-template-columns : 200px auto 150px; */
+/* shorthand */
+.grid div:nth-child(5){
+    grid-row: 1 / 2;
+    grid-column: 2 / 3;
+}
 
-    /* Same result as above, the / divides the rows and columns */
-     grid-template: 100px 200px / 200px auto 150px
-
+/* creates an implicit grid row */
+/* can make things wider */
+.grid div:nth-child(4){
+    grid-row: 2 / 3;
+    grid-column: 1 / 3;
 }
