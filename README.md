@@ -42,6 +42,10 @@
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569910257392943145/Screen_Shot_2019-04-22_at_11.39.17_AM.png)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569910258194055169/Screen_Shot_2019-04-22_at_11.39.35_AM.png)
 
-## Adding Grid Area
+## Adding Grid Area (unpreferred way)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569929400741789696/Screen_Shot_2019-04-22_at_12.55.28_PM.png)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569929401441976320/Screen_Shot_2019-04-22_at_12.55.39_PM.png)
+
+## Adding Grid Area (preferred way)
+![](https://cdn.discordapp.com/attachments/567006944611532818/569935528548368425/Screen_Shot_2019-04-22_at_1.19.32_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/569935528997289988/Screen_Shot_2019-04-22_at_1.19.54_PM.png)
