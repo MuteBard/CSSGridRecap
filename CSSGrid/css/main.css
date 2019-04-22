@@ -1,19 +1,26 @@
 .grid {
     display : grid;
+    grid-template: [row1] 100px [row2] 200px / [col1] 200px [col2] auto  [col3] 150px;
 
-     /* one row with 100px in size */
-    /* grid-template-rows : 100px; */
+}
 
-     /* two rows with one 100px size and another in 200px*/
-    /* grid-template-rows : 100px 200px; */
+.grid div:nth-child(2){
+    grid-row-start: row1; 
+    grid-row-end : row2; 
+    grid-column-start: col1; 
+    grid-column-end: col2; 
+}
 
-     /* two rows with one 100px size and another in 200px*/
-    /* three columns with one 200px size, another in 150px,and the rest remaining in size */
-    /* two by three results into 6 cell designs*/
-    /* grid-template-rows : 100px 200px;
-    grid-template-columns : 200px auto 150px; */
+.grid div:nth-child(5){
+    grid-row: row1 / row2;
+    grid-column: col2 / col3;
+}
 
-     /* Same result as above, the / divides the rows and columns */
-     grid-template: 100px 200px / 200px auto 150px
+.grid div:nth-child(4){
+    grid-row: row2 / 3;
+    grid-column: col1 / col3;
+}
 
- }
+.grid div:nth-child(6){
+    grid-column: auto / span 3;
+}
