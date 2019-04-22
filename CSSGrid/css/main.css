@@ -1,33 +1,11 @@
 .grid {
     display : grid;
-    grid-template: 100px 100px 100px / repeat(10 10px);
-    grid-gap : 2px 2px;
-
+    grid-template: 100px 100px / 1fr 1fr 1fr;
+    grid-gap : 10px 10px;
 }
 
-.grid div:nth-child(1){
-    grid-column: 1 / span 75; 
-}
 
-.grid div:nth-child(2){
-    grid-area:  auto / span 25; 
-}
 
-.grid div:nth-child(3){
-    grid-area: auto / span 50; 
-}
-
-.grid div:nth-child(4){
-    grid-area: auto / span 50; 
-}
-
-.grid div:nth-child(5){
-    grid-area: auto / span 50; 
-}
-
-.grid div:nth-child(6){
-    grid-area: auto / span 50; 
-}
 
 
 

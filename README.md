@@ -49,3 +49,21 @@
 ## Adding Grid Template Area (preferred way)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569935528548368425/Screen_Shot_2019-04-22_at_1.19.32_PM.png)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569935528997289988/Screen_Shot_2019-04-22_at_1.19.54_PM.png)
+
+## Using repeat()
+![](https://cdn.discordapp.com/attachments/567006944611532818/569984458711891988/Screen_Shot_2019-04-22_at_4.34.11_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/569984460766838824/Screen_Shot_2019-04-22_at_4.34.23_PM.png)
+
+## Using the fr unit, fraction of the remaining space
+
+**Without fr**
+![](https://cdn.discordapp.com/attachments/567006944611532818/569986142061985796/Screen_Shot_2019-04-22_at_4.40.11_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/569986197158363136/Screen_Shot_2019-04-22_at_4.39.41_PM.png)
+
+**With fr**
+![](https://cdn.discordapp.com/attachments/567006944611532818/569986138186711060/Screen_Shot_2019-04-22_at_4.40.50_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/569986182897729536/Screen_Shot_2019-04-22_at_4.41.04_PM.png)
+
+**Second example with fr and repeat()**
+![](https://cdn.discordapp.com/attachments/567006944611532818/569987792806084629/Screen_Shot_2019-04-22_at_4.47.27_PM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/569987794848448623/Screen_Shot_2019-04-22_at_4.47.40_PM.png)
