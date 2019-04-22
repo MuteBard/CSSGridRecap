@@ -1,8 +1,21 @@
 .grid {
     display : grid;
-    grid-template: 100px 100px / repeat(auto-fill, minmax(150px, 1fr));
+    grid-template: 200px 200px / 1fr 1fr 1fr;
     grid-gap : 10px 10px;
 }
 
+.subgrid{
+    display : grid;
+    grid-template: 50% 50% / 50% 50%;
+    grid-gap : 10px;
+}
+
+.subgrid div:nth-child(n){
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    border : solid 1px white;
+    border-radius: 2px;
+}
 
 
