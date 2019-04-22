@@ -46,6 +46,6 @@
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569929400741789696/Screen_Shot_2019-04-22_at_12.55.28_PM.png)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569929401441976320/Screen_Shot_2019-04-22_at_12.55.39_PM.png)
 
-## Adding Grid Area (preferred way)
+## Adding Grid Template Area (preferred way)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569935528548368425/Screen_Shot_2019-04-22_at_1.19.32_PM.png)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569935528997289988/Screen_Shot_2019-04-22_at_1.19.54_PM.png)
