@@ -37,3 +37,7 @@
 ## Getting a cell to span a whole row
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569902767343140884/Screen_Shot_2019-04-22_at_11.09.43_AM.png)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569902772909113345/Screen_Shot_2019-04-22_at_11.09.09_AM.png)
+
+## Adding Grid gaps
+![](https://cdn.discordapp.com/attachments/567006944611532818/569910257392943145/Screen_Shot_2019-04-22_at_11.39.17_AM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/569910258194055169/Screen_Shot_2019-04-22_at_11.39.35_AM.png)
