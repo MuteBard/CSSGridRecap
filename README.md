@@ -33,3 +33,7 @@
 ### Repositioning items and resizing them along the way (Commit 884a5f0)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569897964575916032/Screen_Shot_2019-04-22_at_10.49.56_AM.png)
 ![](https://cdn.discordapp.com/attachments/567006944611532818/569897966777663488/Screen_Shot_2019-04-22_at_10.50.30_AM.png)
+
+## Getting a cell to span a whole row
+![](https://cdn.discordapp.com/attachments/567006944611532818/569902767343140884/Screen_Shot_2019-04-22_at_11.09.43_AM.png)
+![](https://cdn.discordapp.com/attachments/567006944611532818/569902772909113345/Screen_Shot_2019-04-22_at_11.09.09_AM.png)
